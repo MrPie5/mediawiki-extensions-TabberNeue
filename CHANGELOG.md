@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/StarCitizenTools/mediawiki-extensions-TabberNeue/compare/v3.0.0...v3.1.0) (2025-05-26)
+
+
+### Features
+
+* add basic Scribunto library support ([d3fb52d](https://github.com/StarCitizenTools/mediawiki-extensions-TabberNeue/commit/d3fb52dbf41b68b4a5e186962f759758fd79f6f4))
+
 ## [3.0.0](https://github.com/StarCitizenTools/mediawiki-extensions-TabberNeue/compare/v2.7.4...v3.0.0) (2025-05-13)
 
 
